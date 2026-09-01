@@ -1,8 +1,8 @@
 {
   "channel": "live",
-  "clientVersion": "0.5.0-alpha",
-  "convexUrl": "https://pleasant-horse-13.eu-west-1.convex.cloud",
-  "realmUrl": "wss://ashen-realms-eldoria.onrender.com",
-  "realmHealthUrl": "https://ashen-realms-eldoria.onrender.com/health",
-  "message": "Eldoria ist online. Der Windows-Client verbindet sich mit Convex und dem autoritativen Ashen-Realms-Realm; neue Launcher-Builds aktualisieren sich automatisch."
+  "clientVersion": "0.6.114",
+  "convexUrl": "",
+  "realmUrl": "wss://realm.ashen-realms.de",
+  "realmHealthUrl": "https://realm.ashen-realms.de/health",
+  "message": "Launcher-Update 0.6.114 erforderlich. Dieses einmalige Update wechselt Ashen Realms vollständig auf den eigenen VPS; danach kommen alle Updates von updates.ashen-realms.de."
 }
